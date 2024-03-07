@@ -7,4 +7,4 @@ function fibonacciSeq(n) {
 }
 
 console.log(fibonacciSeq(5));
-[ 1, 1, 2, 3, 5 ]
+// Output: [ 1, 1, 2, 3, 5 ]
